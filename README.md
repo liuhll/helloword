@@ -4,7 +4,7 @@
  this is a line
 
 
-# editdemo
+# Editdemo
 o commit changes
 
 Click the README file.
