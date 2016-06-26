@@ -4,4 +4,6 @@ public void Main(string[] agrs){
 }
 
 
-public bool M1(){}
+public bool M1(){
+  Console.WriteLine("This is a line");
+}
